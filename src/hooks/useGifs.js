@@ -12,6 +12,7 @@ export function useGifs({ keyword }){
         getGifs({ keyword : keyword}).then(res => {          
             setGifs(res);
             setLoading(false);
+            localStorage.setItem('lastKeyword', keyword);
         })
     }, [keyword])
 

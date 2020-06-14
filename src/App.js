@@ -4,7 +4,9 @@ import ListOfGifs  from "./components/ListOfGifs";
 
 export default function App() {
 
-  const [keyword, setKeyword] = useState('panda');
+   const keywordToUse = localStorage.getItem('lastKeyword') || 'panda';
+
+  const [keyword, setKeyword] = useState(keywordToUse);
 
   return (
     <AppDiv className="App">

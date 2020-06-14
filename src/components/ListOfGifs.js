@@ -1,4 +1,4 @@
-import React, {useEffect, useState, Fragment} from "react";
+import React from "react";
 import { Loading } from '../styles/Css';
 import Gif  from "./Gif";
 import { useGifs } from "../hooks/useGifs";
