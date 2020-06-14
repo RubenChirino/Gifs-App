@@ -15,6 +15,3 @@ export default function App() {
     </AppDiv>
   );
 }
-
-/*<Button onClick={ gifs={gifs}
-  () => setGifs(Diferences_Gifs)}>Change Gif</Button> */

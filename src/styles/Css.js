@@ -28,3 +28,8 @@ export const Search = styled.input`
 export const ImgGif = styled.img`
     border-radius: 5px;
 `;
+
+export const Loading = styled.i`
+    font-size: 50px;
+    margin-top: 10px;
+`;
