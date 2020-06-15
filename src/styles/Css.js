@@ -5,7 +5,6 @@ export const AppDiv = styled.div`
 `;
 
 export const Content = styled.section`
-    background-color: #282c34;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -32,4 +31,14 @@ export const ImgGif = styled.img`
 export const Loading = styled.i`
     font-size: 50px;
     margin-top: 10px;
+`;
+
+//Not Found Styles 
+
+export const NotFoundSection = styled.div`
+   text-align: center;
+`;
+
+export const NotFoundImg = styled.img`
+   width: 50%;
 `;
