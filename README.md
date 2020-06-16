@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Gifs-App (React practice)  🥽
+
+Gifs-App is a small application made with React.js using **React-router-dom** and **Styled-components**. It is based on a search engine for Online Gifs.
+
+- React good practices
+- Folder and file structure
+- Componentization
+- ES6 modules in React
+- Loading effect and notFound page
+- API Called
+- UseRef Hook
+- UseState Hook
+- UseEffect Hook
+- UseContext Hook
+- Custom Hook
+
 
 ## Available Scripts
 
