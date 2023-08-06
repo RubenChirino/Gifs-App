@@ -14,8 +14,15 @@ Gifs-App is a small application made with React.js using **React-router-dom** an
 - UseContext Hook
 - Custom Hook
 
+## Home
 
-## Available Scripts
+![home](https://github.com/RubenChirino/Gifs-App/assets/52714843/28404e73-404a-486d-b77b-aef6464789f1)
+
+<p align="center">
+  <img width="390" alt="Screenshot 2023-08-05 at 21 52 04" src="https://github.com/RubenChirino/Gifs-App/assets/52714843/dfd9038c-d368-43a8-b8cf-dac252b6bc4c">
+</p>
+
+### Available Scripts
 
 In the project directory, you can run:
 
